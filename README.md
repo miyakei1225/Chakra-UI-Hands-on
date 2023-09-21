@@ -26,16 +26,17 @@ mkdir CAMP
 git clone https://github.com/miyakei1225/Chakra-UI-Hands-on.git
 ```
 
-### 3.Chakra-UI-Hands-onディレクトリに移動し、lsコマンドでファイル群があることを確認する。
+### 3.Chakra-UI-Hands-on/react-frontディレクトリに移動し、lsコマンドでファイル群があることを確認する。
 ```
-cd Chakra-UI-Hands-on
+cd Chakra-UI-Hands-on/react-front/
 ```
 
 ```
 ls
 ```
+<img width="648" alt="スクリーンショット 2023-09-22 8 18 22" src="https://github.com/miyakei1225/Chakra-UI-Hands-on/assets/65134351/462b2649-5226-494b-bfc4-bbeb107f0ee2">
 
-<img width="571" alt="スクリーンショット 2023-04-22 23 28 13" src="https://user-images.githubusercontent.com/65134351/233790731-5d1e1cf7-2c1c-4e76-9156-01f8180961c1.png">
+
 
 ### 3.VS Codeでプロジェクトフォルダを開く(未ダウンロードの方は各自ダウンロードしていただけると幸いです。)
 【※もし実行するのであれば設定必須🙆】
@@ -55,8 +56,8 @@ npm install
 ```
 npm start
 ```
-<img width="513" alt="スクリーンショット 2023-04-22 23 39 07" src="https://user-images.githubusercontent.com/65134351/233791130-b2c2192f-77f0-4c87-a6fe-e29bdbebe572.png">
 
 ### 6. 環境構築完了🙌
-localhost:3000/homeにアクセスし、以下の画面が表示出来れば環境構築終了です！構築お疲れ様でした💪
-<img width="1455" alt="スクリーンショット 2023-04-23 19 27 38" src="https://user-images.githubusercontent.com/65134351/233834463-b0f7be9f-4428-4b0a-80db-e392aff977d7.png">
+localhost:3000にアクセスし、以下の画面が表示出来れば環境構築終了です！構築お疲れ様でした💪
+<img width="1421" alt="スクリーンショット 2023-09-22 8 26 46" src="https://github.com/miyakei1225/Chakra-UI-Hands-on/assets/65134351/ff2eaa21-cf0a-4a50-be36-dba3b0f27104">
+
